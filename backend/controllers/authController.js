@@ -179,7 +179,7 @@ const login = async (req, res) => {
 };
 
 function abc () {
-  
+  console.log('tauqeer add a console')
 }
 
 function xyz () {
