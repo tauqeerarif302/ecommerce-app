@@ -183,7 +183,7 @@ function abc () {
 }
 
 function xyz () {
-  
+  console.log('new console')
 }
 module.exports = {
   signup,
